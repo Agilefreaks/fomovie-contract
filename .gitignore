@@ -50,3 +50,4 @@ contracts/README.md
 
 # temporary artifact from solidity-coverage
 allFiredEvents
+.openzeppelin/.session
