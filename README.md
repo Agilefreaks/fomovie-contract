@@ -1,4 +1,4 @@
-Fair and Open Movie Licensing
+Fair and Open Movie Licensing (or FOMOvie - Fear of Missing Out on Movie Licensing Revenue Sharing)
 
 1. Clone
 
