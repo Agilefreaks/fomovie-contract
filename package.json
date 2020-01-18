@@ -4,7 +4,7 @@
   "description": "Fair and Open Movie Licensing",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --exit --recursive test"
+    "test": "oz compile && mocha --exit --recursive test"
   },
   "repository": {
     "type": "git",
