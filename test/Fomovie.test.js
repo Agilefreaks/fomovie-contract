@@ -12,7 +12,7 @@ describe('Fomovie', function () {
   beforeEach(async function () {
     this.contract = await Fomovie.new({ from: owner });
       await this.contract.initialize(owner);
-    });
+  });
 
   describe('#getLicenceCount', function() {
     it('is empty', async function() {
